@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+A - it will initialize a empty repositry with no commits added yet. Initializing repositry will make a new blank repositry for the user to add its own commits time to time.
