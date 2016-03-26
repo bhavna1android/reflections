@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+A - whenever i ws using internet or when there is a pull request and want to add the code as it is. 
