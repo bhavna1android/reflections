@@ -2,3 +2,6 @@ When would you want to use a remote repository rather than keeping all your work
 A - whenever i ws using internet or when there is a pull request and want to add the code as it is. 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A - because in some cases may be i dont want to save the changes in my remote repository as i m not sure with the changes that i have made is correct or not.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+A - we should have all the commit history present with us offline too for future refrences.
+
