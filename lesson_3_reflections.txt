@@ -4,4 +4,6 @@ Why might you want to always pull changes manually rather than having Git automa
 A - because in some cases may be i dont want to save the changes in my remote repository as i m not sure with the changes that i have made is correct or not.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 A - we should have all the commit history present with us offline too for future refrences.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A - It will be difficult without git to collaborate with other people n get ideas from them. i think github is the best way to do that.
 
